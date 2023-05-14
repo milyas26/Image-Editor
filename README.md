@@ -2,6 +2,8 @@
 
 A simple Image editor using FabricJs
 
+![Screenshot](screenshoot.png)
+
 ## Features
 1. Add a background image
 2. Add an image
